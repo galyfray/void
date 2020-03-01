@@ -1,0 +1,12 @@
+name: Void Wall
+description: a wall made out of void stone it repair itself over time
+update: true
+health: 750
+group: walls
+category: defense
+requirements : [
+	void-stone/8
+	titanium/10
+	thorium/1
+]
+research:thorium-wall

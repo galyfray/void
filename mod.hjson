@@ -1,0 +1,7 @@
+name: "from the void to the cosmos"
+displayName: "from the void to the cosmos" //what displays in the mod selection menu
+dependencies: ["galy-lib"]
+author: "Galyfray"
+description: "InDev"
+version: "0.1"
+minGameVersion: "101"

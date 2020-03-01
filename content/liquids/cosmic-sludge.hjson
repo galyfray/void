@@ -1,0 +1,19 @@
+name: Cosmic sludge
+description: A weird and strongly unstable mix.You can feel Cosmic power escaping from this liquid lets refine this.
+color:"00c4ee"
+barColor:"00c4ee"
+lightColor:"00c4eeFF"
+flammability: 1
+temperature: 1
+heatCapacity: 0
+viscosity:2
+explosiveness:0.5
+effect: {
+	name: Cosmic Plague
+	damageMultiplier:2
+	armorMultiplier:0.2
+	speedMultiplier:5
+	color:"00c4ee"
+	damage:-0.01
+	effect:healBlock
+}

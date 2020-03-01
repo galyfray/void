@@ -1,0 +1,7 @@
+name: Void Steel
+description: Void Stone refined with titanium and silicium
+type: material
+explosiveness:1
+flammability:0.5
+radioactivity:0.5
+cost:3

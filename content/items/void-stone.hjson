@@ -1,0 +1,7 @@
+name: Void Stone
+description: Raw void harverted from the gaps between the univers at the cost of graphite and power
+type: material
+explosiveness:2
+flammability:0
+radioactivity:0.9
+cost:4
